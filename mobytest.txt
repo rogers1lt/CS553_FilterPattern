@@ -1,0 +1,5 @@
+The textfile, moby.txt contains: 
+Bytes: 1276798
+Words: 215823
+Bytes(2nd): 1276798
+Words(2nd): 215823

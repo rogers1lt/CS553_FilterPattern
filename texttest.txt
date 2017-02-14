@@ -1,0 +1,5 @@
+The textfile, test.txt contains: 
+Bytes: 29
+Words: 6
+Bytes(2nd): 29
+Words(2nd): 6

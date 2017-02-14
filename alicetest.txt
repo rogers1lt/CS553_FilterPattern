@@ -1,0 +1,5 @@
+The textfile, alice.txt contains: 
+Bytes: 173595
+Words: 29465
+Bytes(2nd): 173595
+Words(2nd): 29465
